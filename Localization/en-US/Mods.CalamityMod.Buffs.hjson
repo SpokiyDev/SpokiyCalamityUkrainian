@@ -1,6 +1,6 @@
 // Alcohols (including Odd Mushroom)
 AlcoholPoisoning: {
-	DisplayName: Alcohol Poisoning Гусь Лох
+	DisplayName: Alcohol Poisoning
 	Description: You drank too much and you are now dying
 }
 
