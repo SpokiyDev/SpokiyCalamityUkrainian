@@ -9,7 +9,7 @@ AerialiteDye: {
 }
 
 AstralBlueDye: {
-	DisplayName: Астрально-синій барвник
+	DisplayName: Астрально-Синій Барвник
 	Tooltip: ""
 }
 
@@ -19,7 +19,7 @@ AstralDye: {
 }
 
 AstralOrangeDye: {
-	DisplayName: Astral Orange Dye
+	DisplayName: Астрально-Помаранчевий Барвник
 	Tooltip: ""
 }
 
