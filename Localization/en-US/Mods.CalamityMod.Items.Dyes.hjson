@@ -19,7 +19,7 @@ AstralDye: {
 }
 
 AstralOrangeDye: {
-	DisplayName: Астрально-Помаранчевий Барвник
+	DisplayName: Астрально-оранжевий Барвник
 	Tooltip: ""
 }
 
