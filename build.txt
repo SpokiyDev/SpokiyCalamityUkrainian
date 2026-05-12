@@ -1,0 +1,7 @@
+displayName = Calamity Українізатор
+author = SpokiyDev
+version = 0.1
+modReferences = CalamityMod
+translationMod = true
+side = Client
+sortAfter = CalamityMod
