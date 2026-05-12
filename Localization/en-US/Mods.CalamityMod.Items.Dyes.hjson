@@ -1,5 +1,5 @@
 AcidRainDye: {
-	DisplayName: Acid Rain Dye
+	DisplayName: Кислотнодощовий барвник
 	Tooltip: ""
 }
 
@@ -19,7 +19,7 @@ AstralDye: {
 }
 
 AstralOrangeDye: {
-	DisplayName: Астрально-Помаранчевий Барвник
+	DisplayName: Астрально-помаранчевий барвник
 	Tooltip: ""
 }
 
