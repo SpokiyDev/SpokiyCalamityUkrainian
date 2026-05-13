@@ -4,7 +4,7 @@ AcidRainDye: {
 }
 
 AerialiteDye: {
-	DisplayName: Аеролітовий барвник
+	DisplayName: Аералітовий барвник
 	Tooltip: ""
 }
 
@@ -14,7 +14,7 @@ AstralBlueDye: {
 }
 
 AstralDye: {
-	DisplayName: Astral Flesh Dye
+	DisplayName: Астрально-плотський барвник
 	Tooltip: ""
 }
 
@@ -29,211 +29,211 @@ AstralSwirlDye: {
 }
 
 AuricDye: {
-	DisplayName: Ауритовий барвник
+	DisplayName: Ауричний барвник
 	Tooltip: ""
 }
 
 BloodflareDye: {
-	DisplayName: Bloodflare Dye
+	DisplayName: Криваво-спалаховий барвник
 	Tooltip: ""
 }
 
 BlueCosmicFlameDye: {
-	DisplayName: Blue Cosmic Flame Dye
+	DisplayName: Синій космічно-полум'яний барвник
 	Tooltip: ""
 }
 
 BlueStatigelDye: {
-	DisplayName: Blue Statigel Dye
+	DisplayName: Синій статигелевий барвник
 	Tooltip: ""
 }
 
 BrimflameDye: {
-	DisplayName: Brimflame Dye
+	DisplayName: Пекельно-полум'яний барвник
 	Tooltip: ""
 }
 
 CalamitousDye: {
-	DisplayName: Calamitous Dye
+	DisplayName: Згубний барвник
 	Tooltip: ""
 }
 
 CeaselessDye: {
-	DisplayName: Ceaseless Dye
+	DisplayName: Невпинний барвник
 	Tooltip: ""
 }
 
 CosmiliteDye: {
-	DisplayName: Cosmilite Dye
+	DisplayName: Космілітовий барвник
 	Tooltip: ""
 }
 
 CryonicDye: {
-	DisplayName: Cryonic Dye
+	DisplayName: Кріонічний барвник
 	Tooltip: ""
 }
 
 DaedalusDye: {
-	DisplayName: Daedalus Dye
+	DisplayName: Дедалів барвник
 	Tooltip: ""
 }
 
 DefiledFlameDye: {
-	DisplayName: Defiled Flame Dye
+	DisplayName: Сплюндровано-полум'яний барвник
 	Tooltip: ""
 }
 
 DragonSoulDye: {
-	DisplayName: Dragon Soul Dye
+	DisplayName: Драконодушний барвник
 	Tooltip: ""
 }
 
 ElementalDye: {
-	DisplayName: Elemental Dye
+	DisplayName: Елементальний барвник
 	Tooltip: ""
 }
 
 EndothermicDye: {
-	DisplayName: Endothermic Dye
+	DisplayName: Ендотермічний барвник
 	Tooltip: ""
 }
 
 ExoDye: {
-	DisplayName: Exo Dye
+	DisplayName: Екзо-барвник
 	Tooltip: ""
 }
 
 AdrenalineHairDye: {
-	DisplayName: Adrenaline Hair Dye
+	DisplayName: Адреналіновий барвник волосся
 	Tooltip: ""
 }
 
 RageHairDye: {
-	DisplayName: Rage Hair Dye
+	DisplayName: Лютісний барвник волосся
 	Tooltip: ""
 }
 
 StealthHairDye: {
-	DisplayName: Stealth Hair Dye
+	DisplayName: Скритний барвник волосся
 	Tooltip: ""
 }
 
 WingTimeHairDye: {
-	DisplayName: Wing Time Hair Dye
+	DisplayName: Барвник волосся польоту часу
 	Tooltip: ""
 }
 
 InvisibleDye: {
-	DisplayName: Invisible Dye
+	DisplayName: Невидимий барвник
 	Tooltip: ""
 }
 
 LivingShardDye: {
-	DisplayName: Living Shard Dye
+	DisplayName: Живоскалковий барвник
 	Tooltip: ""
 }
 
 MeldDye: {
-	DisplayName: Meld Dye
+	DisplayName: Злитий барвник
 	Tooltip: ""
 }
 
 NecromanticDye: {
-	DisplayName: Necromantic Dye
+	DisplayName: Некромантичний барвник
 	Tooltip: ""
 }
 
 NecroplasmicDye: {
-	DisplayName: Necroplasmic Dye
+	DisplayName: Некроплазмовий барвник
 	Tooltip: ""
 }
 
 NightmareDye: {
-	DisplayName: Nightmare Dye
+	DisplayName: Кошмарний барвник
 	Tooltip: ""
 }
 
 PinkCosmicFlameDye: {
-	DisplayName: Pink Cosmic Flame Dye
+	DisplayName: Рожевий космічно-полум'яний барвник
 	Tooltip: ""
 }
 
 PinkStatigelDye: {
-	DisplayName: Pink Statigel Dye
+	DisplayName: Рожевий статигелевий барвник
 	Tooltip: ""
 }
 
 PlagueGooDye: {
-	DisplayName: Plague Goo Dye
+	DisplayName: Чумно-слизовий барвник
 	Tooltip: ""
 }
 
 PlaguePlateDye: {
-	DisplayName: Plague Plate Dye
+	DisplayName: Чумнопластинчастий барвник
 	Tooltip: ""
 }
 
 ProfanedCrystalDye: {
-	DisplayName: Profaned Crystal Dye
+	DisplayName: Осквернено-кристалічний барвник
 	Tooltip: ""
 }
 
 ProfanedFlameDye: {
-	DisplayName: Profaned Flame Dye
+	DisplayName: Осквернено-полум'яний барвник
 	Tooltip: ""
 }
 
 ProfanedMoonlightDye: {
-	DisplayName: Profaned Moonlight Dye
+	DisplayName: Осквернено-місячний барвник
 	Tooltip: ""
 }
 
 ProfanedRockDye: {
-	DisplayName: Profaned Rock Dye
+	DisplayName: Осквернено-кам'яний барвник
 	Tooltip: ""
 }
 
 ReaverDye: {
-	DisplayName: Reaver Dye
+	DisplayName: Руйнівний барвник
 	Tooltip: ""
 }
 
 ScoriaDye: {
-	DisplayName: Scoria Dye
+	DisplayName: Скорієвий барвник
 	Tooltip: ""
 }
 
 ShadowspecDye: {
-	DisplayName: Shadowspec Dye
+	DisplayName: Тіньоспектральний барвник
 	Tooltip: ""
 }
 
 SilvaDye: {
-	DisplayName: Silva Dye
+	DisplayName: Сильвовий барвник
 	Tooltip: ""
 }
 
 SlimeGodDye: {
-	DisplayName: Slime God Dye
+	DisplayName: Барвник бога слизу
 	Tooltip: ""
 }
 
 StratusDye: {
-	DisplayName: Stratus Dye
+	DisplayName: Стратусовий барвник
 	Tooltip: ""
 }
 
 SwirlingCosmicFlameDye: {
-	DisplayName: Swirling Cosmic Flame Dye
+	DisplayName: Вихровий космічно-полум'яний барвник
 	Tooltip: ""
 }
 
 TarragonDye: {
-	DisplayName: Tarragon Dye
+	DisplayName: Таррагоновий барвник
 	Tooltip: ""
 }
 
 WulfrumDye: {
-	DisplayName: Wulfrum Dye
+	DisplayName: Вульфрумовий барвник
 	Tooltip: ""
 }
