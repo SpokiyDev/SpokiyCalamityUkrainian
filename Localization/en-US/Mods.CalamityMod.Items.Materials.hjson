@@ -9,321 +9,321 @@ AncientBoneDust: {
 }
 
 ArmoredShell: {
-	DisplayName: Armored Shell
+	DisplayName: Броньований панцир
 	Tooltip: ""
 }
 
 AscendantSpiritEssence: {
-	DisplayName: Ascendant Spirit Essence
-	Tooltip: A catalyst of the highest caliber formed by fusing powerful souls
+	DisplayName: Есенція вищого духа
+	Tooltip: Каталізатор вищого ґатунку, створений шляхом злиття могутніх душ
 }
 
 AshesofAnnihilation: {
-	DisplayName: Ashes of Annihilation
-	Tooltip: The smoldering essence of the Witch's wrath
+	DisplayName: Попелище анігіляції
+	Tooltip: Тління відьомської люті 
 }
 
 AshesofCalamity: {
-	DisplayName: Ashes of Calamity
+	DisplayName: Попелище лиха
 	Tooltip: ""
 }
 
 AstralBar: {
-	DisplayName: Astral Bar
+	DisplayName: Астральний злиток
 	Tooltip: ""
 }
 
 AuricBar: {
-	DisplayName: Auric Bar
-	Tooltip: Boundless power emanates from the metal
+	DisplayName: Авритовий злиток
+	Tooltip: Безмежна сила шириться цим металом
 }
 
 BeetleJuice: {
-	DisplayName: Beetle Juice
+	DisplayName: Сік жука
 	Tooltip: ""
 }
 
 BlightedGel: {
-	DisplayName: Blighted Gel
+	DisplayName: Зіпсований гель
 	Tooltip: ""
 }
 
 BloodOrb: {
-	DisplayName: Blood Orb
+	DisplayName: Сфера крові
 	Tooltip: ""
 }
 
 Bloodstone: {
-	DisplayName: Bloodstone
+	DisplayName: Кровокамінь
 	Tooltip: ""
 }
 
 BloodstoneCore: {
-	DisplayName: Bloodstone Core
+	DisplayName: Кровокам'яне ядро
 	Tooltip: ""
 }
 
 CoreofCalamity: {
-	DisplayName: Core of Calamity
+	DisplayName: Ядро лиха
 	Tooltip: ""
 }
 
 CorrodedFossil: {
-	DisplayName: Corroded Fossil
-	Tooltip: It's very sturdy
+	DisplayName: Розкладена скам'янілість
+	Tooltip: Вельми стійка
 }
 
 CosmiliteBar: {
-	DisplayName: Cosmilite Bar
-	Tooltip: A chunk of durable and highly resilient cosmic steel
+	DisplayName: Космолітовий злиток
+	Tooltip: Шматок міцної та надзвичайно пружної космічної сталі
 }
 
 CryonicBar: {
-	DisplayName: Cryonic Bar
+	DisplayName: Кріонітовий злиток
 	Tooltip: ""
 }
 
 DarkPlasma: {
-	DisplayName: Dark Plasma
+	DisplayName: Темна плазма
 	Tooltip: ""
 }
 
 DarksunFragment: {
-	DisplayName: Darksun Fragment
-	Tooltip: An impacted crystal suffused with opposing celestial energies
+	DisplayName: Фрагмент затемненого сонця
+	Tooltip: Кристал, наповнений двома протилежними небесними енергіями
 }
 
 DepthCells: {
-	DisplayName: Depth Cells
-	Tooltip: The cells of abyssal creatures
+	DisplayName: Глибоководні клітини
+	Tooltip: Клітини істот Безодні
 }
 
 DivineGeode: {
-	DisplayName: Divine Geode
-	Tooltip: A chunk of crystallized holy energy
+	DisplayName: Божественна жеода
+	Tooltip: Шматок кристалізованої святої енергії
 }
 
 DubiousPlating: {
-	DisplayName: Dubious Plating
+	DisplayName: Сумнівна пластина
 	Tooltip: ""
 }
 
 EffulgentFeather: {
-	DisplayName: Effulgent Feather
-	Tooltip: It vibrates with fluffy golden energy
+	DisplayName: Променисте пір'я
+	Tooltip: Наповнене пухкою золотистою енергією
 }
 
 EndothermicEnergy: {
-	DisplayName: Endothermic Energy
-	Tooltip: Its deathly chill sucks the life from its surroundings
+	DisplayName: Ендотермічна енергія
+	Tooltip: Її вбивчий холод висмоктує життя з усього навколо
 }
 
 EnergyCore: {
-	DisplayName: Energy Core
-	Tooltip: It pulses with energy
+	DisplayName: Енергетичне ядро
+	Tooltip: Всередині пульсує енергія
 }
 
 EssenceofEleum: {
-	DisplayName: Essence of Eleum
-	Tooltip: The essence of cold creatures
+	DisplayName: Есенція Елеуму
+	Tooltip: Есенція крижаних істот
 }
 
 EssenceofHavoc: {
-	DisplayName: Essence of Havoc
-	Tooltip: The essence of desolate creatures
+	DisplayName: Есенція хаосу
+	Tooltip: Есенція вигорілих істот
 }
 
 EssenceofSunlight: {
-	DisplayName: Essence of Sunlight
-	Tooltip: The essence of sky, light, and storm creatures
+	DisplayName: Есенція сонячного світла
+	Tooltip: Есенція небесних, сонячних та грозових істот
 }
 
 ExoPrism: {
-	DisplayName: Exo Prism
-	Tooltip: Fractal energies shimmer across its surface
+	DisplayName: Екзопризма
+	Tooltip: Всередині мерехтить роздріблена енергія
 }
 
 GalacticaSingularity: {
-	DisplayName: Galactica Singularity
-	Tooltip: A shard of the cosmos
+	DisplayName: Галактична сингулярність
+	Tooltip: Шматочок космосу
 }
 
 GrandScale: {
-	DisplayName: Grand Scale
-	Tooltip: Large scale of an apex predator
+	DisplayName: Древня луска
+	Tooltip: Шматок шкіри верхівкового хижака
 }
 
 InfectedArmorPlating: {
-	DisplayName: Infected Armor Plating
+	DisplayName: Заражена захисна пластина
 	Tooltip: ""
 }
 
 LifeAlloy: {
-	DisplayName: Life Alloy
+	DisplayName: Сплав життя
 	Tooltip: ""
 }
 
 LivingShard: {
-	DisplayName: Living Shard
+	DisplayName: Уламок життя
 	Tooltip: ""
 }
 
 Lumenyl: {
-	DisplayName: Lumenyl
-	Tooltip: A shard of lumenous energy
+	DisplayName: Люменіл
+	Tooltip: Осколок люмінесцентної енергії
 }
 
 MeldBlob: {
-	DisplayName: Meld Blob
+	DisplayName: Литий згусток
 	Tooltip: ""
 }
 
 MeldConstruct: {
-	DisplayName: Meld Construct
+	DisplayName: Литий конструкт
 	Tooltip: ""
 }
 
 MiracleMatter: {
-	DisplayName: Miracle Matter
+	DisplayName: Дивоматерія
 	Tooltip:
 		'''
-		Its amorphous form contains untold potential
-		One is required for every Exo Weapon
+		Ця аморфна форма приховує в собі неймовірний потенціал
+		Потрібно по одній на кожну одиницю екзозброї
 		'''
 }
 
 MolluskHusk: {
-	DisplayName: Mollusk Husk
-	Tooltip: The remains of a mollusk
+	DisplayName: Раковинка устриці
+	Tooltip: Останки стулчастого молюска
 }
 
 MysteriousCircuitry: {
-	DisplayName: Mysterious Circuitry
+	DisplayName: Таємнича схема
 	Tooltip: ""
 }
 
 Necroplasm: {
-	DisplayName: Necroplasm
-	Tooltip: It churns and seethes with ghastly malice
+	DisplayName: Некроплазма
+	Tooltip: Невпинно вирує, закипаючи від примарної злоби
 }
 
 NightmareFuel: {
-	DisplayName: Nightmare Fuel
-	Tooltip: May drain your sanity
+	DisplayName: Кошмарне паливо
+	Tooltip: Може поглинути твій глузд
 }
 
 PearlShard: {
-	DisplayName: Pearl Shard
+	DisplayName: Уламок перлини
 	Tooltip: ""
 }
 
 PerennialBar: {
-	DisplayName: Perennial Bar
+	DisplayName: Вічнозелений злиток
 	Tooltip: ""
 }
 
 PlagueCellCanister: {
-	DisplayName: Plague Cell Canister
+	DisplayName: Ємність з клітинами чуми
 	Tooltip: ""
 }
 
 PlasmaDriveCore: {
-	DisplayName: Prototype Plasma Drive Core
-	Tooltip: Despite all the time it spent in storage, its furnace still burns strong
+	DisplayName: Прототип ядра плазмового модуля
+	Tooltip: Випромінює чимало тепла, навіть після довгого перебування на складі
 }
 
 PurifiedGel: {
-	DisplayName: Purified Gel
+	DisplayName: Очищений гель
 	Tooltip: ""
 }
 
 ReaperTooth: {
-	DisplayName: Reaper Tooth
-	Tooltip: Sharp enough to cut diamonds
+	DisplayName: Зуб жнеця
+	Tooltip: Здатний розрізати алмаз
 }
 
 RuinousSoul: {
-	DisplayName: Ruinous Soul
-	Tooltip: A shard of the distant past
+	DisplayName: Згублива душа
+	Tooltip: Уламок далекого минулого
 }
 
 ScoriaBar: {
-	DisplayName: Scoria Bar
-	Tooltip: The smoke feels warm
+	DisplayName: Вулканітовий злиток
+	Tooltip: Викидає гарячий дим
 }
 
 SeaRemains: {
-	DisplayName: Sea Remains
+	DisplayName: Морські залишки
 	Tooltip: ""
 }
 
 ShadowspecBar: {
-	DisplayName: Shadowspec Bar
-	Tooltip: A vile, black metal, so horrendous and powerful as to defy explanation
+	DisplayName: Пітьмонітовий злиток
+	Tooltip: Темний, зловісний, страшенно потужний метал
 }
 
 SolarVeil: {
-	DisplayName: Solar Veil
-	Tooltip: Sunlight cannot penetrate the fabric of this cloth
+	DisplayName: Сонячна вуаль
+	Tooltip: Непроникна для сонячного світла
 }
 
 StarblightSoot: {
-	DisplayName: Starblight Soot
+	DisplayName: Зоряний попіл
 	Tooltip: ""
 }
 
 StormlionMandible: {
-	DisplayName: Stormlion Mandible
+	DisplayName: Мандибула бурелева
 	Tooltip: ""
 }
 
 SulphuricScale: {
-	DisplayName: Sulphuric Scale
+	DisplayName: Сірчана луска
 	Tooltip: ""
 }
 
 SuspiciousScrap: {
-	DisplayName: Suspicious Scrap
-	Tooltip: Looks like it may be part of a greater whole...
+	DisplayName: Підозрілий металобрухт
+	Tooltip: Схоже, це частина чогось більшого...
 }
 
 TitanHeart: {
-	DisplayName: Titan Heart
-	Tooltip: Can be offered up at the Astral Beacon
+	DisplayName: Серце титана
+	Tooltip: Можна принести в жертву Астральному маяку
 }
 
 TwistingNether: {
-	DisplayName: Twisting Nether
+	DisplayName: Викривлений простір
 	Tooltip: ""
 }
 
 UelibloomBar: {
-	DisplayName: Uelibloom Bar
+	DisplayName: Староцвітовий злиток
 	Tooltip: ""
 }
 
 UnholyCore: {
-	DisplayName: Unholy Core
+	DisplayName: Осквернене ядро
 	Tooltip: ""
 }
 
 UnholyEssence: {
-	DisplayName: Unholy Essence
-	Tooltip: The essence of profaned creatures
+	DisplayName: Осквернена есенція
+	Tooltip: Есенція осквернених істот
 }
 
 WulfrumMetalScrap: {
-	DisplayName: Wulfrum Metal Scrap
+	DisplayName: Вульфрумовий металобрухт
 	Tooltip: ""
 }
 
 YharonSoulFragment: {
-	DisplayName: Yharon Soul Fragment
-	Tooltip: A shard of a draconic Auric Soul
+	DisplayName: Фрагмент душі Ярона
+	Tooltip: Осколок душі авритового дракона
 }
 
 AnodizedWulfrumMetal: {
-	DisplayName: Anodized Wulfrum Metal
+	DisplayName: Анодований вульфрумовий метал
 	Tooltip: ""
 }
 
