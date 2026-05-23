@@ -1,29 +1,29 @@
 // For general uses
-Abyss: Abyss
-AstralInfection: Astral Infection
-AstralSnow: Astral Snow
-BrimstoneCrags: Brimstone Crags
-SulphurousSea: Sulphurous Sea
-SunkenSea: Sunken Sea
+Abyss: Безодня
+AstralInfection: Астральна інфекція
+AstralSnow: Астральні сніги
+BrimstoneCrags: Сіркові скелі
+SulphurousSea: Сірчане море
+SunkenSea: Затонуле море
 
 AstralDesert: {
-	DisplayName: Astral Desert Surface
-	TownNPCDialogueName: Astral Desert
+	DisplayName: Поверхня астральної пустелі
+	TownNPCDialogueName: Астральна пустеля
 }
 
 AstralBiome: {
-	DisplayName: Astral Infection
-	TownNPCDialogueName: Astral Infection
+	DisplayName: Астральна інфекція
+	TownNPCDialogueName: Астральна інфекція
 }
 
 AstralInfectionBiome: {
-	DisplayName: Astral Infection
-	TownNPCDialogueName: Astral Infection
+	DisplayName: Астральна інфекція
+	TownNPCDialogueName: Астральна інфекція
 }
 
 AstralIce: {
-	DisplayName: Astral Ice
-	TownNPCDialogueName: Astral Snow
+	DisplayName: Астральний льодовик
+	TownNPCDialogueName: Астральні сніги
 }
 
 AbyssLayer1Biome: {
@@ -47,38 +47,38 @@ AbyssLayer4Biome: {
 }
 
 AcidRainBiome: {
-	DisplayName: Acid Rain
-	TownNPCDialogueName: Acid Rain
+	DisplayName: Кислотний дощ
+	TownNPCDialogueName: Кислотний дощ
 }
 
 ArsenalLabBiome: {
-	DisplayName: Arsenal Labs
-	TownNPCDialogueName: Arsenal Lab
+	DisplayName: Зброярські лабораторії
+	TownNPCDialogueName: Зброярська лабораторія
 }
 
 BrimstoneCragsBiome: {
-	DisplayName: Brimstone Crags
-	TownNPCDialogueName: Brimstone Crags
+	DisplayName: Сіркові скелі
+	TownNPCDialogueName: Сіркові скелі
 }
 
 SulphurousSeaBiome: {
-	DisplayName: Sulphurous Sea
-	TownNPCDialogueName: Sulphurous Sea
+	DisplayName: Сірчане море
+	TownNPCDialogueName: Сірчане море
 }
 
 SunkenSeaBiome: {
-	DisplayName: Sunken Sea
-	TownNPCDialogueName: Sunken Sea
+	DisplayName: Затонуле море
+	TownNPCDialogueName: Затонуле море
 }
 
 AstralUnderground: {
-	DisplayName: Underground Astral
-	TownNPCDialogueName: Underground Astral Infection
+	DisplayName: Підземний астрал
+	TownNPCDialogueName: Підземна астральна інфекція
 }
 
 AstralCaveDesert: {
-	DisplayName: Astral Cave Desert
-	TownNPCDialogueName: the Astral Cave Desert
+	DisplayName: Астральна піщана печера
+	TownNPCDialogueName: Астральна піщана печера
 }
 
 FloralParadiseBiome: {
